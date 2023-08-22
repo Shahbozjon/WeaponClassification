@@ -10,9 +10,9 @@
 ## Library installation
 We need:
 
-`fastai==2.7.12
+`fastai==2.7.12`
 
-`torch==2.0.1+cu118
+`torch==2.0.1+cu118`
 
 ## Dataset
 
